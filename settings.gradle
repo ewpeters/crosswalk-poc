@@ -1,2 +1,2 @@
-include ':crosswalkwebview23535894arm'
 include ':xWalkEmbed'
+include ':crosswalkwebview23535894arm'
